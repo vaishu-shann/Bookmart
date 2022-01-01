@@ -1,10 +1,8 @@
-Here is the Blue-Print of the Project
 
-https://coggle.it/diagram/XwIAOrXjqFB49EWD/t/pagemart
 
 Features:-
 
-1)An Ecommerce website built using MERN stack ie. MongoDB for Database, Node.js and Express.js for server side and React for the Frontend.
+1)A Book store website built using MERN stack ie. MongoDB for Database, Node.js and Express.js for server side and React for the Frontend.
 
 2)Includes basic features like User and Admin Authorisation and Authentication.
 
@@ -14,9 +12,7 @@ Features:-
 
 5)Both Users and Admins can check the order details.
 
-6)Payment Gateway - Braintree is implemented.
+6)Conditional Rendering is used by the help of React.js
 
-7)Conditional Rendering is used by the help of React.js
-
-8)Website built in a user-friendly way.
+7)Website built in a user-friendly way.
 
